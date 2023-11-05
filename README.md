@@ -1,4 +1,4 @@
-# <a href="https://aries00021.github.io/Digiedu-an-Digital-Education-website/index.html">2023-Future-Ready-Talent-Project</a>
+# <a href="https://aries00021.github.io/Digiedu-an-Digital-Education-website/">2023-Future-Ready-Talent-Project</a>
 
 This is a website for digital education
 
