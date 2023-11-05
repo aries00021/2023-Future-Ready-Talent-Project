@@ -24,7 +24,7 @@ The Core Idea is to create a Digital Education website with bot for user support
 
 
 ### Screenshots : 
-![alt text](![alt text](https://github.com/[aries00021]/[Digiedu-an-Digital-Education-Website]/blob/[main]/2023-11-05 (1).png?raw=true)
+![alt text](![alt text](https://github.com/[aries00021]/[Digiedu-an-Digital-Education-Website]/blob/[main]/2023-11-05 (1).jpg?raw=true)
 
 
 
