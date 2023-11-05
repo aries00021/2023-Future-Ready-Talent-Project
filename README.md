@@ -24,9 +24,11 @@ The Core Idea is to create a Digital Education website with bot for user support
 
 
 ### Screenshots : 
-![alt text](![alt text](https://github.com/[aries00021]/[Digiedu-an-Digital-Education-Website]/blob/[main]/2023-11-05 (1).jpg?raw=true)
 
 
+![2023-11-05](https://github.com/aries00021/Digiedu-an-Digital-Education-website/assets/104365761/b053cdd0-02ab-4bdd-a27a-f97e2b7049de)
+
+![2023-11-05 (1)](https://github.com/aries00021/Digiedu-an-Digital-Education-website/assets/104365761/b1477c9b-34c4-4d19-9dcf-6b6969b6dc7c)
 
 ### Primary Azure Technology :
 Azure AI Bot Services, Static Web App
