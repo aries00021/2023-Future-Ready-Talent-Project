@@ -24,4 +24,4 @@ The Core Idea is to create a Digital Education website with bot for user support
 
 
 ### Primary Azure Technology :
-Azure Bot Services, Static Web App
+Azure AI Bot Services, Static Web App
