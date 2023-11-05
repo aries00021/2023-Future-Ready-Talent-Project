@@ -21,3 +21,7 @@ An Edu-company wants to create an digital platform for learning as the online ed
 ### Project Description :
 
 The Core Idea is to create a Digital Education website with bot for user support.The primary goal of this website is to learn online courses provided and get support for the users in finding their courses, suggesting a learning path through the support bot.
+
+
+### Primary Azure Technology :
+Azure Bot Services, Static Web App
