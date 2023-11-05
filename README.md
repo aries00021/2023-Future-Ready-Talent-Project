@@ -24,7 +24,7 @@ The Core Idea is to create a Digital Education website with bot for user support
 
 
 ### Screenshots : 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Screenshots/2023-11-05 (1).png?raw=true)
 
 
 
